@@ -132,7 +132,7 @@ header{
     display: none;
 }
 .text-active{
-    display:active;
+    display:block;
 }
 
 .message-wrapper{
