@@ -206,3 +206,17 @@ footer p{
   margin-bottom: 15px;
   display:none;
 }
+
+.menu-icon{
+  
+  color: white;
+  float: right;
+  font-size: 25px;
+  padding: 21px 0;
+  /* displayをnoneに指定してください */
+  display:none;
+}
+
+.clear {
+  clear: left;
+}
